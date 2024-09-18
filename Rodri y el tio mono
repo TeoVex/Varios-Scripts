@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> '</title>
+</head>
+<body>
+    <!-- Mostrar el valor "TeoVex" dentro de un elemento HTML -->
+    <p id="nombre">TioVex</p>
+
+    <!-- También se puede insertar usando JavaScript -->
+    <img src="https://www.mediafire.com/view/wkifwemvrmd72fh/Rodri_y_martin.jpg/file" alt="Descripción de la imagen" width="auto" height="auto">
+</body>
+</html>
