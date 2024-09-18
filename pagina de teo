@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina de TEEEEEEOOOOO VEX</title>
+</head>
+<body>
+    <!-- Mostrar el valor "TeoVex" dentro de un elemento HTML -->
+    <p id="nombre">TeoVex</p>
+
+    <!-- También se puede insertar usando JavaScript -->
+    <img src="https://media-eze1-1.cdn.whatsapp.net/v/t61.24694-24/425133203_501864075794273_1373400785332086959_n.jpg?ccb=11-4&oh=01_Q5AaIFXH9KTN7etuIIedBxFMn-ThKQl2M2v16bqFVKycqvky&oe=66F74B22&_nc_sid=5e03e0&_nc_cat=109" alt="Descripción de la imagen" width="auto" height="auto">
+</body>
+</html>
